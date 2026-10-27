@@ -1,0 +1,10 @@
+{
+  "name": "Mürsel",
+  "title": "Student",
+  "bio": "Building small tools, games, and interfaces.",
+  "skills": ["Python", "JavaScript", "HTML", "CSS", "Algorithms"],
+  "socials": [
+    { "label": "GitHub", "handle": "your-handle" },
+    { "label": "Portfolio", "handle": "your-site.dev" }
+  ]
+}
